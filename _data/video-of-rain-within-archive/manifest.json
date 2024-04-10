@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://rebsalzer.github.io/geselraintest/video-of-rain-within-archive/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Video of Rain within archive" ] },
+    "homepage": [
+      {
+        "id": "https://dancingdigital.whirlihost.com/Detail/objects/657",
+        "type": "Text",
+        "label": { "en": [ "Video of Rain within archive" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://rebsalzer.github.io/geselraintest/video-of-rain-within-archive/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 164.0,
+        "items": [
+          {
+            "id": "https://rebsalzer.github.io/geselraintest/video-of-rain-within-archive/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://rebsalzer.github.io/geselraintest/video-of-rain-within-archive/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://dancingdigital.whirlihost.com/Detail/objects/657",
+                    "duration": 164.0
+                },
+                "target": "https://rebsalzer.github.io/geselraintest/video-of-rain-within-archive/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
