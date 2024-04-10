@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "2018 Rain" ] },
+    "summary": { "en": [ "A time-coded recording of Gesel Mason performing Bebe Miller's \"Rain\" in 2018" ] },
+    "items": [
+    ]
+}
